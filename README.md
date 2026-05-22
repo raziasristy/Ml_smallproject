@@ -1,2 +1,2 @@
-# Pandas
+# project
 ML small projecct
