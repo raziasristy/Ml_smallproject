@@ -1,2 +1,2 @@
-# project
-ML small projecct
+#Project
+ML small project
