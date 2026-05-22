@@ -1,2 +1,2 @@
 # Pandas
-Pandas  practice code
+ML small projecct
